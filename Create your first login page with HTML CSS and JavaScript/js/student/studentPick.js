@@ -1,0 +1,10 @@
+class studentPick{
+
+constructor(){
+
+
+
+}
+
+
+}
